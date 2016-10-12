@@ -55,6 +55,6 @@
  	
   </dependencies>
   <build>
-    <finalName>Spring4MVCHelloWorld</finalName>
+    <finalName>Spring4</finalName>
   </build>
 </project>
